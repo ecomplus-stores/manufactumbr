@@ -1,6 +1,5 @@
 {
   "domain": "manufactumbr.netlify.app",
-  "currency_symbol": "$",
   "primary_color": "#222831",
   "theme": {
     "bootswatch": "lumen",
@@ -11,8 +10,9 @@
   "logo": "/img/uploads/sem-frase.png",
   "name": "manufactumbr",
   "short_name": "manufactum",
-  "lang": "en_us",
-  "currency": "USD",
+   	"lang": "pt_br",
+  "currency": "BRL",
+  "currency_symbol": "R$",
   "mini_logo": "",
   "font_family": "Roboto",
   "favicon": "/img/uploads/logo-30p.gif",
