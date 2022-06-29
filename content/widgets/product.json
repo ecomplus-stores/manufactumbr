@@ -1,12 +1,13 @@
 {
   "pkg": "@ecomplus/widget-product",
   "active": true,
-  "desktopOnly": false,
+  "desktopOnly": true,
   "options": {
     "buyText": "",
     "buy": "",
     "strHasQuantitySelector": "_",
-    "lowQuantityToWarn": 12,
-    "maxVariationOptionsBtns": 6
+    "lowQuantityToWarn": 1,
+    "maxVariationOptionsBtns": 8,
+    "strHasPromotionTimer": "true"
   }
 }
